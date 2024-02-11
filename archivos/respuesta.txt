@@ -1,0 +1,1 @@
+No se logra visualizar la carpeta "archivos", ni deja hacer el commit.
